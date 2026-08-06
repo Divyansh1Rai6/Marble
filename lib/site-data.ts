@@ -242,10 +242,10 @@ export const testimonials: Testimonial[] = [
 ];
 
 export const company = {
-  name: 'VitrixStone Ceramics',
+  name: 'StoneCraft Marble & Tiles',
   tagline: 'Crafting Surfaces, Building Trust',
-  address: 'VitrixStone House, Survey 114, Morbi-Gondal Highway, Morbi, Gujarat 363641, India',
-  phone: '+91 98250 14700',
+  address: '125 Industrial Estate, Sector 18, Jaipur, Rajasthan - 302018',
+  phone: '+91 9876543210',
   email: 'connect@vitrixstone.example',
   hours: 'Mon–Sat, 9:00 AM – 6:30 PM IST',
 };

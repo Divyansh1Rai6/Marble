@@ -213,7 +213,7 @@ export type Testimonial = { quote: string; name: string; role: string; initials:
 export const testimonials: Testimonial[] = [
   {
     quote:
-      'VitrixStone has been our sole tile partner for nine years. The consistency across batches is unmatched — we have never had a project rejected for shade variation.',
+      'StoneCradt Marble has been our sole tile partner for nine years. The consistency across batches is unmatched — we have never had a project rejected for shade variation.',
     name: 'Rajiv Menon',
     role: 'Principal Architect, Meridian Studio',
     initials: 'RM',

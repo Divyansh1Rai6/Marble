@@ -39,7 +39,7 @@ export default function Navbar() {
           </span>
           <span className="flex flex-col leading-none">
             <span className="text-xl font-semibold tracking-tight text-primary">
-              VitrixStone
+              StoneCraft Marble & Tiles
             </span>
             <span className="text-[0.625rem] font-medium uppercase tracking-[0.3em] text-accent">
               Ceramics

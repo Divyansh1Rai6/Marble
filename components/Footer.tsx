@@ -49,7 +49,7 @@ export default function Footer() {
           </div>
           {done && (
             <p className="mt-3 text-center text-sm text-accent">
-              You&apos;re subscribed. Welcome to the VitrixStone circle.
+              You&apos;re subscribed. Welcome to the StoneCraft Marble & Tiles.
             </p>
           )}
         </div>
@@ -63,7 +63,7 @@ export default function Footer() {
                 <Gem className="h-5 w-5" strokeWidth={1.5} />
               </span>
               <span className="flex flex-col leading-none">
-                <span className="text-xl font-semibold">VitrixStone</span>
+                <span className="text-xl font-semibold">StoneCraft Marble & Tiles</span>
                 <span className="text-[0.625rem] font-medium uppercase tracking-[0.3em] text-accent">
                   Ceramics
                 </span>
